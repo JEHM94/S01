@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio 01</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="btn_next">Next Step</string>
+    <string name="RadioGreeter">Greeter</string>
+    <string name="RadioFarewell">Farewell</string>
+    <string name="seekText18">18</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="buttonShare">Share</string>
+</resources>
